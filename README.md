@@ -22,9 +22,6 @@ enterprise-financial-analytics/
 │   ├── Enterprise_Financial_Analytics.pbix
 │   └── screenshots/
 │
-├── docs/
-│   └── architecture_overview.png
-│
 └── README.md
 ```
 
@@ -61,6 +58,9 @@ Dimension tables:
 - gold_dim_business_unit
 - gold_dim_risk
 - gold_dim_date
+
+Other tables: 
+- financial_breakdown
 
 ## KPIs implementados en DAX
 | Categoría | KPI | Descripción |
