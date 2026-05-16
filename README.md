@@ -11,7 +11,7 @@ Microsoft Fabric · PySpark Notebooks · Lakehouse · Medallion Architecture · 
 enterprise-financial-analytics/
 │
 ├── data/
-│   └── enterprise_financial_operations_raw.csv
+│   └── ORIONTECH_raw.csv
 │
 ├── notebooks/
 │   ├── nb_01_raw_to_bronze.ipynb
@@ -89,6 +89,11 @@ Other tables:
 - Dashboard ejecutivo con KPIs financieros, operacionales y de riesgo.
 - Modelo analítico optimizado para toma de decisiones estratégicas.
 - Storytelling de negocio orientado a eficiencia, costes y monitorización operativa.
+
+## Mejoras futuras
+- Introducir KPIs vs budget y vs YTD en las tarjetas principales.
+- Crear una hoja específica de ratios económicos-financieros y de rentabilidad.
+- Nutrir el PBI desde Fabric con diferentes fuentes de datos.  
 
 ## Business Value
 La plataforma centraliza el reporting financiero y operacional en un único modelo analítico, facilitando la monitorización ejecutiva mediante KPIs estratégicos, análisis de eficiencia, control de riesgos operativos y detección de costes ocultos. 
