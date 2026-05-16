@@ -19,7 +19,7 @@ enterprise-financial-analytics/
 │   └── nb_03_silver_to_gold.ipynb
 │
 ├── powerbi/
-│   ├── Enterprise_Financial_Analytics.pbix
+│   ├── ORIONTECH_Executive_Analytics.pbix
 │   └── screenshots/
 │
 └── README.md
@@ -91,8 +91,8 @@ Other tables:
 - Storytelling de negocio orientado a eficiencia, costes y monitorización operativa.
 
 ## Mejoras futuras
-- Introducir KPIs vs budget y vs YTD en las tarjetas principales.
-- Crear una hoja específica de ratios económicos-financieros y de rentabilidad.
+- Introducir en los KPIs principales comparativas YTD vs Budget y YoY.
+- Hoja específica de ratios económicos-financieros y de rentabilidad.
 - Nutrir el PBI desde Fabric con diferentes fuentes de datos.  
 
 ## Business Value
